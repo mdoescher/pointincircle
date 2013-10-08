@@ -1,0 +1,22 @@
+{
+  "name": "pointincircle",
+  "version": "0.0.0",
+  "description": "Tests if a point is contained within a circle defined by three nonlinear unique points.  Returns 1 if the point is inside the circle; 0 if the point is on the circle; and -1 if the point is outside the circle",
+  "main": "pointincircle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "left-right": "~0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "point",
+    "circle"
+  ],
+  "author": "Michael Doescher",
+  "license": "MIT"
+}
